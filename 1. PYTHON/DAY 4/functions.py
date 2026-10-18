@@ -12,3 +12,13 @@ def add(a, b):
 
 answer = add(10, 20)
 print(answer) 
+
+
+
+
+#main skeliton ho functions
+#def NAME(INPUT):
+    #return WORK
+
+#result = NAME(VALUE)
+#print(result)
